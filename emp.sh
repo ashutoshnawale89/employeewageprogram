@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo " eployee is present or absent using RANDOM keywords "
+echo " employee is present or absent using RANDOM keywords "
 
 ispresent=5 ;
 randomcheck=$((RANDOM%6)) ;
