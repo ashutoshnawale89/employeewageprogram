@@ -16,4 +16,4 @@ $isfullday)
 esac
 salary=$(($emphrs * $empratehr));
 
-echo "salary of emply $salary" 
+echo "SALARY OF THE EMPLOYEE IS $salary" 
