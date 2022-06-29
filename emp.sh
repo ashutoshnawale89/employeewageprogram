@@ -7,7 +7,7 @@ randomcheck=$((RANDOM%6)) ;
 
 if [ $ispresent = $randomcheck ]
 then
-echo " emp is PRESENT "
+echo " employee is PRESENT "
 else
 echo  " emp is ABSENT "
 fi
