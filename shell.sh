@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "hello world WELCME TO MAIN BRANCH "
+echo "Hello world WELCME TO MAIN BRANCH "
